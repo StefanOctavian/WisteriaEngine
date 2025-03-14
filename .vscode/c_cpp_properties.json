@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "name": "EGC2-Tema1",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "C:/Users/ASUS/Desktop/Stefan/Facultate/Anul IV/EGC2/tema1/**",
+                "C:/Users/ASUS/Desktop/Stefan/Facultate/Anul IV/EGC2/tema1/src/**"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\ProgramData\\chocolatey\\bin\\gcc.exe",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "windows-gcc-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

@@ -1,0 +1,9 @@
+- TODO:
+    - [ ] Instead of writing different shaders for different rendering modes,
+          write a single shader using preprocessor directives and load the shader
+          multiple times, prepending the appropriate directives to the shader source.
+    - [ ] Add a virtual `void Update()` method to the `GameObject` class to allow
+          for updating the game object's state in derived classes. This will effectively
+          allow implementing Components like in Unity, just that a component will be
+          just a child game object of the game object it is attached to, instanced from a
+          derived class of `GameObject`.
